@@ -6,17 +6,17 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-el-jamaai-aa7815211/" target="_blank">
+  <a href="https://www.linkedin.com/in/anas-khardad-874596203/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="eljamaaimohamedd@gmail.com" target="_blank">
+  <a href="anas.khardad@esi.ac.ma" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="662359085659717633" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  <a href="https://www.instagram.com/medj_20/" target="_blank">
+  <a href="https://www.instagram.com/anas.khardad/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm a Data Scientist | BI | Machine Learning Engineer | Développement web| from Morocco<br><br>- 🔭 I’m working as a Data Scientist<br>- ⚡ In my free time I handle some projects for different clients 👩‍💻Freelancing Time👩‍💻<br>- 👩‍💻My Upwork profile: https://www.upwork.com/freelancers/~015df4a9313d2d549f</p>
+<p align="left">I'm a Data Scientist | BI | Machine Learning Engineer | Développement web| from Morocco<br><br>- 🔭 I’m working as a Data Scientist<br>- ⚡ In my free time I handle some projects for different clients 👩‍💻Freelancing Time👩‍💻<br>- 👩‍💻My Upwork profile: https://www.upwork.com/freelancers/~01052d7d86b5fc502a</p>
 
 ###
 
